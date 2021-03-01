@@ -1,37 +1,77 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
 
-You can use the [editor on GitHub](https://github.com/Ravinkanzariya/rklearning/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<head>
+  <title>Hello, Space Friends! </title>
+  <link rel="stylesheet" type="text/css" href="bit1.css">
+</head>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<body>
+  <header style="color: red;border: 1;">
+    <ul>
+      <li>1</li>
+      <li>2</li>
+      <li>3</li>
+    </ul>
+  </header>
+  <nav>
+    <ul>
+      <li>
+        <a href="index.html">Home</a>
+      </li>
+      <li>
+        <a href="aboutme.html">About me</a>
+      </li>
+      <li>
+        <a href="contactme.html">Contact me</a>
+      </li>
+    </ul>
+  </nav>
+  <h1>Space Doggo Adventures</h1>
+  <p>This is the first Space Doggo Adventure!</p>
+  <img src="E:\RK Device\Wallpaper\20210129_075743.jpg" alt="Space Doggo and the moon">
+  <h3>Space Doggo Budget</h3>
+  <table>
+    <caption class="title">Jan 1st - Feb 14th</caption>
+    <tr>
+      <th>Expenses</th>
+      <th>Cost</th>
+    </tr>
+    <tr>
+      <td>Fuel costs</td>
+      <td>6000 BDG</td>
+    </tr>
+    <tr>
+      <td>Hotel</td>
+      <td>1500 BDG</td>
+    </tr>
+    <tr>
+      <td>Fun</td>
+      <td>900 BDG</td>
+    </tr>
+    <tr>
+      <td>Food</td>
+      <td>500 BDG</td>
+    </tr>
+  </table>
+  <h2>Leave your awesome comment</h2>
+  <form>
+    <input placeholder="Your name" type="text" name="myfriendname"><br>
+    <input placeholder="Your email address" type="email" name="email-address"><br>
+    <textarea name="comment">Add your awesome comment here</textarea><br>
+    <input type="submit" name="submit" value="Send">
+  </form>
+  <a href="https://www.w3school.com"><h1>w3school</h1></a>
+  <hr>
+    <iframe width="360 " height="315 " src="https://www.youtube.com/embed/5bqmQw6zlm8 " frameborder="0 " allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture " allowfullscreen></iframe>
+    <br>
 
-### Markdown
+    <video src="C:\Users\BHARAT\Downloads\Video\Pal Pal Dil Ke Pass Full Screen Song-(MirchiStatus.com).mp4" width="400" height="300" controls muted "></video>
+    <hr>
+    <a href="E:\Dk\All Black Full Song _ Sukhe _ Raftaar _  New Video  2015 _ T-Series ( 128kbps ).mp3">abc</a>
+    <audio src="E:\Dk\All Black Full Song _ Sukhe _ Raftaar _  New Video  2015 _ T-Series ( 128kbps ).mp3">hey</audio>
+    <br>
+    <p>lorem</p>
+</body>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ravinkanzariya/rklearning/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</html>
